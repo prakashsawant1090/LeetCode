@@ -56,32 +56,32 @@ class Main {
 
 
 class Solution {
-    
-    static void dfs(ArrayList<ArrayList<Integer>> adj,boolean visited[],int curr,Stack<Integer> st){
-        visited[curr] = true;
-        
-        for(int x:adj.get(curr)) {
-            if(visited[x]==false){
-                dfs(adj,visited,x,st);
-            }
-        }
-         st.push(curr);
-    }
-    
     // Function to return list containing vertices in Topological order.
     static ArrayList<Integer> topologicalSort(ArrayList<ArrayList<Integer>> adj) {
-     ArrayList<Integer>topo = new ArrayList<>();
-     boolean visited[] = new boolean[adj.size()];
-     Stack<Integer> st =new Stack<>();
-     
-     for(int i=0;i<adj.size();i++){
-         if(visited[i]==false)
-         dfs(adj,visited,i,st);
-     }
-     
-     
-     while(st.isEmpty()==false) topo.add(st.pop());
-     
-     return topo;
+        
+        int indegree[] = new int[adj.size()];
+        ArrayList<Integer> topo = new ArrayList<>();
+        Queue<Integer> q =new LinkedList<>();
+        
+        for(int i=0;i<adj.size();i++){
+            for(int x:adj.get(i)) indegree[x] = indegree[x]+1;
+        }
+        
+        for(int i=0;i<adj.size();i++) {
+            if(indegree[i] == 0) q.offer(i);
+        }
+        
+        while(!q.isEmpty()){
+            int curr = q.poll();
+            topo.add(curr);
+            
+            for(int x:adj.get(curr)){
+                indegree[x] = indegree[x]-1;
+                if(indegree[x]==0) q.offer(x);
+            }
+        }
+        
+        return topo;
+      
     }
 }
