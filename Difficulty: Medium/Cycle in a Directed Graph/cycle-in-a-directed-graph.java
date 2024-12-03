@@ -35,36 +35,29 @@ class DriverClass {
 class Solution {
     // Function to detect cycle in a directed graph.
     public boolean isCyclic(int V, ArrayList<ArrayList<Integer>> adj) {
-        ArrayList<Integer>topo=new ArrayList<>();
-     Queue<Integer>q=new LinkedList<>();
-     
-     int indegree[]=new int[V];
-     
-     for(int i=0;i<V;i++){
-         for(int it:adj.get(i)) indegree[it]++;
-     }
-         
-    for(int i=0;i<V;i++){
-        if(indegree[i]==0) q.offer(i);
-    }
-    
-    
-    while(!q.isEmpty()){
-        int curr=q.poll();
-        
-        topo.add(curr);
-        
-        for(int it:adj.get(curr)) {
-           indegree[it]--;
-           if(indegree[it]==0) q.offer(it);
-        }
-        
-        
-    }
-    
-    // System.out.print(topo);
-         
-      if(topo.size()!=V) return true;
-      return false;
+       ArrayList<Integer> topo = new ArrayList<>();
+       int indegree[] = new int[V];
+       Queue<Integer> q = new LinkedList<>();
+       
+       for(int i=0;i<adj.size();i++){
+           for(int x:adj.get(i)) indegree[x]++;
+       }
+       
+       for(int i=0;i<V;i++) {
+           if(indegree[i]==0) q.offer(i);
+       }
+       
+       while(!q.isEmpty()){
+           int curr = q.poll();
+           topo.add(curr);
+           
+           for(int x:adj.get(curr)){
+               indegree[x]--;
+               if(indegree[x]==0) q.offer(x);
+           }
+       }
+       
+       if(topo.size()==V)  return false;
+       return true;
     }
 }
