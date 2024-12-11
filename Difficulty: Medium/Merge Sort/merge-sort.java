@@ -38,30 +38,31 @@ class Main {
 
 
 class Solution {
-    
-    static void merge(int arr[],int l,int mid,int r){
-        if(l>=r) return;
+    static public void merge(int arr[],int l,int mid,int r){
+        if(l>=r) return ; 
         ArrayList<Integer> temp = new ArrayList<>();
-        int low = l ,high=mid+1;
+        int low =l,high = mid+1;
         
-        while(low<=mid && high<=r) {
+        while(low<=mid && high<=r){
             if(arr[low]<= arr[high]) temp.add(arr[low++]);
             else temp.add(arr[high++]);
         }
         
-        while(low<=mid)  temp.add(arr[low++]);
+        while(low<=mid) temp.add(arr[low++]);
         while(high<=r) temp.add(arr[high++]);
         
-        for(int i=l;i<=r;i++) arr[i] = temp.get(i-l);
+        for(int i=l;i<=r;i++){
+            arr[i] =temp.get(i-l);
+        }
+        
+        
     }
 
     void mergeSort(int arr[], int l, int r) {
-       if(l>=r) return ; 
-       int mid = (l+r)/2;
-       mergeSort(arr,l,mid);
-       mergeSort(arr,mid+1,r);
-       
-       merge(arr,l,mid,r);
-       
+        if(l>=r) return;
+        int mid = (l+r)/2;
+        mergeSort(arr,l,mid);
+        mergeSort(arr,mid+1,r);
+        merge(arr,l,mid,r);
     }
 }
