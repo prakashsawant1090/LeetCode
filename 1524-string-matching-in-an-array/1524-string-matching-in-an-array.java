@@ -8,7 +8,6 @@ class Solution {
 
     public List<String> stringMatching(String[] words) {
         List<String> ans = new ArrayList<>();
-
         for(String str : words){
             if(find(words,str))  ans.add(str);
         }
