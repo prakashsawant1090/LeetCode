@@ -1,21 +1,19 @@
 class Solution {
-    public int[] findThePrefixCommonArray(int[] a, int[] b) {
-        int ans[] =new int[a.length];
-        HashMap<Integer,Integer> map = new HashMap<>();
-        // map.put(b[i],1);
+    public int[] findThePrefixCommonArray(int[] A, int[] B) {
+        int freq[] = new int [A.length+1];
+        int ans[] =new int[A.length];
+        int cnt=0;
 
-        for(int i=0;i<a.length;i++){
-             map.put(b[i],1);
-             int temp = i;
-             int cnt = 0;
-             while(temp>=0){
-                if(map.containsKey(a[temp])) cnt++;
-                temp--;
-             }
-             ans[i] = cnt;
+        for(int i=0;i<A.length;i++){
+
+            freq[A[i]]++;
+            if(freq[A[i]]==2) cnt++;
+            freq[B[i]]++;
+            if(freq[B[i]]==2) cnt++;
+
+            ans[i] = cnt;
         }
 
-
-        return ans;
+    return ans;
     }
 }
