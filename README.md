@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prakashsawant1090/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/prakashsawant1090/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0952-word-subsets](https://github.com/prakashsawant1090/LeetCode/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/prakashsawant1090/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/prakashsawant1090/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/prakashsawant1090/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0952-word-subsets](https://github.com/prakashsawant1090/LeetCode/tree/master/0952-word-subsets) |
 | [2685-first-completely-painted-row-or-column](https://github.com/prakashsawant1090/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/prakashsawant1090/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/prakashsawant1090/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2685-first-completely-painted-row-or-column](https://github.com/prakashsawant1090/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Database
 |  |
