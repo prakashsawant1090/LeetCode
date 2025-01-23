@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prakashsawant1090/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/prakashsawant1090/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0162-find-peak-element](https://github.com/prakashsawant1090/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakashsawant1090/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0952-word-subsets](https://github.com/prakashsawant1090/LeetCode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -106,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/prakashsawant1090/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakashsawant1090/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
