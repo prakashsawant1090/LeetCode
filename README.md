@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prakashsawant1090/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/prakashsawant1090/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0952-word-subsets](https://github.com/prakashsawant1090/LeetCode/tree/master/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/prakashsawant1090/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/prakashsawant1090/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/prakashsawant1090/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/prakashsawant1090/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/prakashsawant1090/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2685-first-completely-painted-row-or-column](https://github.com/prakashsawant1090/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Database
 |  |
@@ -87,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prakashsawant1090/LeetCode/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
