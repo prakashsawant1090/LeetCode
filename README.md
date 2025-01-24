@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prakashsawant1090/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/prakashsawant1090/LeetCode/tree/master/0061-rotate-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/prakashsawant1090/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/prakashsawant1090/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
