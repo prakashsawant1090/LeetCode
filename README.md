@@ -95,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/prakashsawant1090/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/prakashsawant1090/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/prakashsawant1090/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakashsawant1090/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/prakashsawant1090/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/prakashsawant1090/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
