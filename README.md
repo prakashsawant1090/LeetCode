@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/prakashsawant1090/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0952-word-subsets](https://github.com/prakashsawant1090/LeetCode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2047-find-a-peak-element-ii](https://github.com/prakashsawant1090/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/prakashsawant1090/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/prakashsawant1090/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/prakashsawant1090/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/prakashsawant1090/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2047-find-a-peak-element-ii](https://github.com/prakashsawant1090/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/prakashsawant1090/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Database
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/prakashsawant1090/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakashsawant1090/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [2047-find-a-peak-element-ii](https://github.com/prakashsawant1090/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Graph
 |  |
 | ------- |
