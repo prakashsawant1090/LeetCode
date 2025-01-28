@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/prakashsawant1090/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/prakashsawant1090/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/prakashsawant1090/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/prakashsawant1090/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/prakashsawant1090/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/prakashsawant1090/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2047-find-a-peak-element-ii](https://github.com/prakashsawant1090/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/prakashsawant1090/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/prakashsawant1090/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -101,16 +103,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/prakashsawant1090/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/prakashsawant1090/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/prakashsawant1090/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/prakashsawant1090/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/prakashsawant1090/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/prakashsawant1090/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/prakashsawant1090/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/prakashsawant1090/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
